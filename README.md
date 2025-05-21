@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-### Date: 11-05-2025
+### Date: 21-05-2025
 ### Deevloped by: Kancharla Narmadha
 ### Register no: 212222110016
 
